@@ -11221,3 +11221,5 @@ WARNING: Unmatched cancel notification for request id 1
 2024.05.19 07:23:48 INFO  time: compiled project_bd2c96d2de in 0.51s
 2024.05.19 07:23:48 INFO  compiling project_bd2c96d2de (2 scala sources)
 2024.05.19 07:23:49 INFO  time: compiled project_bd2c96d2de in 0.47s
+May 19, 2024 7:26:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
