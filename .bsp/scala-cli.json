@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/ahmed/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/home/ahmed/Documents/github/spark-projects/music-recommender/.scala-build/ide-options-v2.json",
+    "/home/ahmed/Documents/github/spark-projects/music-recommender"
+  ],
+  "version": "1.0.0-RC1",
+  "bspVersion": "2.1.0-M3",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
